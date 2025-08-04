@@ -1,0 +1,36 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+Debug/
+Release/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake-build-*/
+
+# Packages
+*.nupkg
+*.snupkg
+*.dll
+*.exe
+*.pdb
+
+# Others
+[Tt]emp/
+*.log
+*.vspscc
+*.vssscc
+*.dbmdl
