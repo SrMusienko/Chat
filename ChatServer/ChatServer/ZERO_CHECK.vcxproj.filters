@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\chat\ChatServer\ChatServer\CMakeFiles\6c3b8a70950b5d4b7e0bb3afdbaa78a7\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{557FDFD3-FD22-3C30-9CAE-F3D9B1BC9605}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
